@@ -1,18 +1,18 @@
-# funkciya
-def say_hi():
-    print("Ya kupil Kota" + "1")
+# код до функции
+# def say_hi():
+#     # код в функции
+#     print("Я купил кота" + "1")
+# # код после функции
 
-say_hi()
+#say_hi()
 
-# print("Ya kupil Kota1")
-# print("Ya kupil Kota2")
-# print("Ya kupil Kota3")
-# print("Ya kupil Kota4")
+# index=0
+# while index < 4:
+#     say_hi()
+#     index +=1
 
-# var_int1 = 12
-# while var_int1:
-#     var_int1 = var_int1 + 1
-#     print(var_int1)
-#     if var_int1 == 500:
-#         print('my doshli do 500')
-# print("Cikl zavershen")
+def say_hi(number):
+    # код в функции
+    print("Я купил кота" + str(number))
+
+say_hi(12)

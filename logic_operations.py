@@ -13,6 +13,7 @@ else:
 if var_1:
     print("stroka")
     if var_1:
+        print("")
 
 
 print('tut proishodit razdelenir')
