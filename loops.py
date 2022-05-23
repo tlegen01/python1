@@ -14,10 +14,14 @@
 #         print('my doshli do 500')
 # print("Cikl zavershen")
 
-hours = 0
-minutes = 0
-seconds = 0
-while True:
-    second += 1
+# hours = 0
+# minutes = 0
+# seconds = 0
+# while True:
+#     seconds += 1
+#
+#     print(hours, minutes, seconds)
 
-    print(hours, minutes, seconds)
+var_list = ["Almaty", "Nur-Sultan", "Taraz", "Ekibastuz"]
+for i in var_list:
+    print(i + " " + str(var_list.index(i)+1))
