@@ -1,5 +1,5 @@
 import math
-def calk(number1, operation, number2 = 10,):
+def calk(number1, operation, number2 = 10,): #функция принимает параметры и аргументы
     print(number1, number2, operation)
     if operation == "+":
         return number1 + number2

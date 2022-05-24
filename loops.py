@@ -23,10 +23,10 @@
 #     print(hours, minutes, seconds)
 
 var_list = ["Almaty", "Nur-Sultan", "Taraz", "Ekibastuz"]
-index_i=0
+index_i=1
 for i in var_list:
     # print(i + " " + str(var_list.index(i)+1))
-    string_city = f"{i} {index_i}"
+    string_city = f"{i} {index_i}"  #конкатинация (сложение строк)
     print(string_city)
     index_i += 1
 
