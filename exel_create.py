@@ -18,7 +18,7 @@ var_list = ["Almaty", "Nur-Sultan", "Taraz", "Ekibastuz"]
 # ["Almaty", "Nur-Sultan", "Taraz", "Ekibastuz"]
 
 var_range = range(1, 1000, 1)
-# print(var_range)
+print(type(var_list))
 # for n in var_range:
 #     print(n)
 
