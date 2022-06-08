@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="717fedad-028d-446a-99da-749ece551643" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exel_analyse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xcel_update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exel_create.py" beforeDir="false" afterPath="$PROJECT_DIR$/exel_create.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/sample.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_work4.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_work4.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/home_work4.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

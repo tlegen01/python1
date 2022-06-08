@@ -22,7 +22,7 @@ for j in var_range:
 stroka_final = []
 stroka_final.append(stroka_1)
 stroka_final.append(stroka_2)
-# print(stroke_final)
+# print(stroka_final)
 
 for row in range(0, len(stroka_final)):
     for col in range(0, len(stroka_final[row])):
@@ -30,9 +30,20 @@ for row in range(0, len(stroka_final)):
         # col_letter = get_column_letter(col)
         stranica1[f"{get_column_letter(col + 1)}{row + 1}"] = stroka_final[row][col]
 
+# for col in range(0, len(stroka_final)):
+#     for row in range(0, len(stroka_final[col])):
+#         # print(row)
+#         # if get_column_letter(col + 1) == "A":
+#         #     letter = "B"
+#         # else:
+#         #     letter = "A"
+#         # stranica1.cell(row=row + 4, column=col + 1).value = stroka_final[col][row]
+#         stranica1[f"{get_column_letter(col + 1)}{row + 4}"] = stroka_final[col][row]
+# print(stroka_final)
+
 for col in range(0, len(stroka_final)):
     for row in range(0, len(stroka_final[col])):
-        stranica1.cell(row=row + 4, column=col + 1).value = stroka_final[col][row]
-print(stroka_final)
+        stranica1[f"{get_column_letter(len(stroka_final)-col-1 + 1)}{row + 4}"] = stroka_final[col][row] #  метод Алибека
+        # print(col)
 
 kniga1.save("home_work4.xlsx")
