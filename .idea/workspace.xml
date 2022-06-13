@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="717fedad-028d-446a-99da-749ece551643" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/excel_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parser_html.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/junk.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work_datetime.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/excel_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home_work4.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home_work4.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/home_work4.xlsx" afterDir="false" />
     </list>
@@ -134,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="work_with_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="parser_html" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work_with_json.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parser_html.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,10 +165,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.home_work4" />
+        <item itemvalue="Python.parser_html" />
         <item itemvalue="Python.exel_create (1)" />
         <item itemvalue="Python.home_work3" />
         <item itemvalue="Python.home_work2" />
-        <item itemvalue="Python.work_with_json" />
       </list>
     </recent_temporary>
   </component>

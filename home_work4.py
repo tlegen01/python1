@@ -22,7 +22,7 @@ for j in var_range:
 stroka_final = []
 stroka_final.append(stroka_1)
 stroka_final.append(stroka_2)
-# print(stroka_final)
+print(stroka_final)
 
 for row in range(0, len(stroka_final)):
     for col in range(0, len(stroka_final[row])):
